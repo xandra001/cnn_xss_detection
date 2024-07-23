@@ -181,4 +181,4 @@ plt.show()
 
 
 # Saving the model 
-modello.save("modelCNN.h5")
+modello.save("model.h5")
